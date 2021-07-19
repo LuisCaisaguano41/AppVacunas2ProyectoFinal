@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">App Vacunacion</string>
+    <string name="titulo_nuevo">Nuevo Paciente</string>
+    <string name="titulo_switch">Cambiar Vista</string>
+    <string name="titulo_search">Buscar Paciente</string>
+    <string name="titulo_nombreDetalle">Nombres</string>
+    <string name="titulo_apellidoDetalle">Apellidos</string>
+    <string name="titulo_edadDetalle">Edad</string>
+    <string name="titulo_pesoDetalle">Peso</string>
+    <string name="titulo_alturaDetalle">Altura</string>
+    <string name="titulo_ciudadDetalle">Ciudad</string>
+    <string name="titulo_direccionDetalle">Direccion</string>
+    <string name="titulo_telefonoDetalle">Telefono</string>
+    <string name="titulo_correoDetalle">Correo</string>
+    <string name="titulo_descripcionDetalle">Descripcion</string>
+    <string name="str_nombres">nombres</string>
+    <string name="str_apellidos">apellidos</string>
+    <string name="str_ciudad">ciudad</string>
+    <string name="str_edad">edad</string>
+    <string name="titulo_direccionNuevo">direccion</string>
+    <string name="titulo_telefonoNuevo">telefono</string>
+    <string name="titulo_eliminar_paciente">Eliminar Paciente</string>
+    <string name="titulo_editar_contacto">Editar Contacto</string>
+</resources>
